@@ -1,0 +1,35 @@
+body {
+    background-image: url("xx.jpg");
+    font-family: 'Comfortaa', cursive;
+    color:rgb(255, 255, 255); 
+    text-align: center;
+    background-size: cover;
+}
+input {
+    display:block;
+    padding: 20px;
+    width: 40%;
+    font-family: 'Comfortaa', cursive;
+    font-size: 1.3em;
+    margin-bottom: 2px;
+    margin-left: 28%;
+
+}
+.c1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.c2{
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: 0.7em;
+}
+.c3{
+    width:20%;
+    margin-left: 40%;
+    margin-top:25px;
+    border:none;
+    border-radius:30px;
+    background-color: rgb(161, 80, 80);
+    padding: 30px;
+}
