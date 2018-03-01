@@ -1,0 +1,32 @@
+* {
+    box-sizing: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-size:cover;
+    font-family: 'Krona One', sans-serif;
+}
+
+div{
+width: 30%;
+text-align: inherit;
+margin-left: 110px;
+margin-top: 60px;
+}
+
+h1,h5{
+    text-transform: uppercase;
+    line-height: 40px;
+}
+h4{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 0.8em;
+    width: 85%;
+}
+h6{
+    line-height: 30px;
+    font-size: 0.5em;
+}
